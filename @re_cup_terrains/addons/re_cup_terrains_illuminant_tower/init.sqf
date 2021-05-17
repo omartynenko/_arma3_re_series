@@ -1,0 +1,1 @@
+_null = [] execVM "\re_cup_terrains_illuminant_tower\tower_lights.sqf";

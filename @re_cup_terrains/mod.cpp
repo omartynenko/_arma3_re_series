@@ -1,0 +1,12 @@
+name = "RE: CUP Terrains";
+description = "Adding a set of systematic enhancements to CUP Terrains mod is aimed to improve immersion and playability. Compiled by amartyn.";
+tooltip = "RE: CUP Terrains";
+tooltipOwned = "";
+overview = "Set of systematic enhancements for CUP Terrains. Compiled by amartyn.";
+logo = "re_cup_logo_ca.paa";
+logoSmall = "re_cup_logo_ca.paa";
+logoOver = "re_cup_logo_over_ca.paa";
+overviewPicture = "re_cup_logo_ca.paa";
+picture = "re_cup_logo_ca.paa";
+author = "amartyn";
+overviewText = "";
