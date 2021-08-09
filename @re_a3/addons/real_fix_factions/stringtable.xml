@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project name="AXY">
+  <Package name="FIA_Groups">
+    <Container name="Names">
+      <Key ID="STR_REAL_FAC_FIA_I">
+        <Original>FIA (Independent)</Original>
+        <English>FIA (Independent)</English>
+        <Russian>Сопротивление (Зелёные)</Russian>
+      </Key>
+	  <Key ID="STR_REAL_FAC_FIA_B">
+        <Original>FIA (Blufor)</Original>
+        <English>FIA (Blufor)</English>
+        <Russian>Сопротивление (Синие)</Russian>
+      </Key>
+	  <Key ID="STR_REAL_FAC_FIA_O">
+        <Original>FIA (Opfor)</Original>
+        <English>FIA (Opfor)</English>
+        <Russian>Сопротивление (Красные)</Russian>
+      </Key>
+	  <Key ID="STR_REAL_SUBCAT_INF">
+        <Original>Infantry</Original>
+        <English>Infantry</English>
+        <Russian>Пехота</Russian>
+      </Key>
+	  <Key ID="STR_REAL_SUBCAT_SUPP">
+        <Original>Support Infantry</Original>
+        <English>Support Infantry</English>
+        <Russian>Пехота поддержки</Russian>
+      </Key>
+	  <Key ID="STR_REAL_SUBCAT_MOTINF">
+        <Original>Motorized Infantry</Original>
+        <English>Motorized Infantry</English>
+        <Russian>Мотопехота</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_SQUAD">
+        <Original>Rifle Squad</Original>
+        <English>Rifle Squad</English>
+        <Russian>Стрелковое отделение</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_SQUAD_WEAP">
+        <Original>Weapons Squad</Original>
+        <English>Weapons Squad</English>
+        <Russian>Отделение тяж. оружия</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_TEAM">
+        <Original>Fire Team</Original>
+        <English>Fire Team</English>
+        <Russian>Огневая группа</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_TEAM_AT">
+        <Original>Anti-armor Team</Original>
+        <English>Anti-armor Team</English>
+        <Russian>Противотанковая группа</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_TEAM_AA">
+        <Original>Air-defense Team</Original>
+        <English>Air-defense Team</English>
+        <Russian>Противовоздушная группа</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_SENTRY">
+        <Original>Sentry</Original>
+        <English>Sentry</English>
+        <Russian>Охрана</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_SENTRY_REC">
+        <Original>Recon Sentry</Original>
+        <English>Recon Sentry</English>
+        <Russian>Разведывательный дозор</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_SNIPER_TEAM">
+        <Original>Sniper Team</Original>
+        <English>Sniper Team</English>
+        <Russian>Снайперская группа</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_TEAM_CLS">
+        <Original>Support Team (CLS)</Original>
+        <English>Support Team (CLS)</English>
+        <Russian>Группа поддержки (санитар)</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_TEAM_EOD">
+        <Original>Support Team (EOD)</Original>
+        <English>Support Team (EOD)</English>
+        <Russian>Группа поддержки (сапер)</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_TEAM_ENG">
+        <Original>Support Team (Engineer)</Original>
+        <English>Support Team (Engineer)</English>
+        <Russian>Группа поддержки (инженер)</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_MOT_PAT">
+        <Original>Motorized Patrol</Original>
+        <English>Motorized Patrol</English>
+        <Russian>Моторизованный патруль</Russian>
+      </Key>
+	  <Key ID="STR_REAL_GROUPS_MOT_TECH">
+        <Original>Technicals</Original>
+        <English>Technicals</English>
+        <Russian>Техники</Russian>
+      </Key>
+	  
+    </Container>
+  </Package>
+</Project>

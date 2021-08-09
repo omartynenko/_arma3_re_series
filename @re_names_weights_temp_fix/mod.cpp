@@ -1,0 +1,12 @@
+name = "real_names_weights temp fix (PLEASE DELETE)";
+description = "Temporary fix for poping 'missing addon is required: real_names_weights'. It does nothing but creates a record real_names_weights. PLEASE DELETE this patch-mod once you have all your saves restored.";
+tooltip = "real_names_weights temp fix (PLEASE DELETE)";
+tooltipOwned = "";
+overview = "Temporary fix for poping 'missing addon is required: real_names_weights'. It does nothing but creates a record real_names_weights. PLEASE DELETE this patch-mod once you have all your saves restored.";
+logo = "\A3\Data_f\Images\Mod_Base_logo_ca.paa";
+logoOver = "\A3\Data_f\Images\Mod_Base_logoOver_ca.paa";
+logoSmall = "\A3\Data_f\Images\Mod_Base_logo_small_ca.paa";
+overviewPicture = "\A3\Data_f\Images\Mod_Base_logo_ca.paa";
+picture = "\A3\Data_f\Images\Mod_Base_logo_ca.paa";
+author = "amartyn";
+overviewText = "";

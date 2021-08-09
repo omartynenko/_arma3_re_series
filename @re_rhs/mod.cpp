@@ -1,0 +1,12 @@
+name = "RE: RHS Escalation";
+description = "Adding a set of systematic enhancements to RHSAFRF and RHSUSF mod is aimed to improve game dynamics and overall playability. Compiled by amartyn.";
+tooltip = "RE: RHS Escalation";
+tooltipOwned = "";
+overview = "Set of systematic enhancements for RHS Escalation. Compiled by amartyn.";
+logo = "re_rhs_logo_ca.paa";
+logoSmall = "re_rhs_logo_ca.paa";
+logoOver = "re_rhs_logo_over_ca.paa";
+overviewPicture = "re_rhs_logo_ca.paa";
+picture = "re_rhs_logo_ca.paa";
+author = "amartyn";
+overviewText = "";

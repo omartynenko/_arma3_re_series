@@ -1,0 +1,12 @@
+name = "RE: Camosys";
+description = "Separately released feature of Real Engine. Adds a camouflage system for Arma 3. Created by amartyn.";
+tooltip = "RE: Camosys";
+tooltipOwned = "";
+overview = "Separately released feature of Real Engine. Adds a camouflage system for Arma 3. Created by amartyn.";
+logo = "re_camosys.paa";
+logoSmall = "re_camosys.paa";
+logoOver = "re_camosys_over.paa";
+overviewPicture = "re_camosys.paa";
+picture = "re_camosys.paa";
+author = "amartyn";
+overviewText = "";

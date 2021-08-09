@@ -1,0 +1,12 @@
+name = "RE: 3RD Person View";
+description = "Modern right-shoulder 3rd person view for units in Arma 3. Compiled by amartyn.";
+tooltip = "RE:3RD";
+tooltipOwned = "";
+overview = "Modern right-shoulder 3rd person view for units in Arma 3. Compiled by amartyn.";
+logo = "re_names_ca.paa";
+logoSmall = "re_names_ca.paa";
+logoOver = "re_names_over_ca.paa";
+overviewPicture = "re_names_ca.paa";
+picture = "re_names_ca.paa";
+author = "amartyn";
+overviewText = "";
